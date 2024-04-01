@@ -8,7 +8,7 @@ import LinksList from "./components/linksList";
 function App() {
   return (
     <div className="App">
-      <Header text={"Kittycare"}></Header>
+      <Header text={"Catardio"}></Header>
       <LinksList />
 
       <FallingDollarBills></FallingDollarBills>
